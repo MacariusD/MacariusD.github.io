@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mda/src/material_theme_gen.dart';
-import 'package:mda/home.dart';
-import 'package:mda/src/text_theme.dart';
+import 'package:my_portfolio_apps/src/material_theme_gen.dart';
+import 'package:my_portfolio_apps/home.dart';
+import 'package:my_portfolio_apps/src/text_theme.dart';
 
 class MainApp extends StatelessWidget {
   const MainApp({super.key});

@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:mda/features/carousel/carousel_content.dart';
+import 'package:my_portfolio_apps/features/carousel/carousel_content.dart';
 
 class MyCarousel extends StatefulWidget {
   const MyCarousel({super.key});
@@ -15,8 +15,9 @@ class _MyCarouselState extends State<MyCarousel> {
   List jsonlist = [];
 
   Future<void> readJson() async {
-    final String response =
-        await rootBundle.loadString('assets/data/carousel_content.json');
+    final String response = await rootBundle.loadString(
+      'assets/data/carousel_content.json',
+    );
     final data = await json.decode(response);
     // debugPrint(data.toString());
     setState(() {
@@ -40,17 +41,18 @@ class _MyCarouselState extends State<MyCarousel> {
         enlargeCenterPage: true,
         initialPage: 7,
       ),
-      items: jsonlist.map((singlePage) {
-        return Builder(
-          builder: (BuildContext context) {
-            return MyCarouselContent(
-              picname: singlePage["photo_name"],
-              title: singlePage["title"],
-              description: singlePage["description"],
+      items:
+          jsonlist.map((singlePage) {
+            return Builder(
+              builder: (BuildContext context) {
+                return MyCarouselContent(
+                  picname: singlePage["photo_name"],
+                  title: singlePage["title"],
+                  description: singlePage["description"],
+                );
+              },
             );
-          },
-        );
-      }).toList(),
+          }).toList(),
     );
   }
 }

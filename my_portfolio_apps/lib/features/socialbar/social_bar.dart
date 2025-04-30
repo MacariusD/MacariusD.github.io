@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mda/features/socialbar/social_button.dart';
-import 'package:mda/src/asset_constants.dart';
+import 'package:my_portfolio_apps/features/socialbar/social_button.dart';
+import 'package:my_portfolio_apps/src/asset_constants.dart';
 
 class SocialBar extends StatelessWidget {
   const SocialBar({super.key});

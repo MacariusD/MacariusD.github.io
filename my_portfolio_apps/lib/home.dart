@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'package:mda/features/socialbar/social_bar.dart';
-import 'package:mda/features/topsection/top_section.dart';
-import 'package:mda/features/carousel/hero_carousel.dart';
+import 'package:my_portfolio_apps/features/socialbar/social_bar.dart';
+import 'package:my_portfolio_apps/features/topsection/top_section.dart';
+import 'package:my_portfolio_apps/features/carousel/hero_carousel.dart';
 
 class MdaHome extends StatefulWidget {
   const MdaHome({super.key});
@@ -41,9 +41,7 @@ class _MdaHome extends State<MdaHome> {
           child: Column(
             children: [
               TopSection(),
-              Expanded(
-                child: MyCarousel(),
-              ),
+              Expanded(child: MyCarousel()),
               SocialBar(),
             ],
           ),

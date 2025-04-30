@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mda/src/asset_constants.dart';
+import 'package:my_portfolio_apps/src/asset_constants.dart';
 
 class MyCarouselImageHolder extends StatelessWidget {
   final String photoName;
@@ -10,9 +10,7 @@ class MyCarouselImageHolder extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       padding: EdgeInsets.all(20),
-      child: Image.asset(
-        AssetConstants.carouselAssetsPath + photoName,
-      ),
+      child: Image.asset(AssetConstants.carouselAssetsPath + photoName),
     );
   }
 }

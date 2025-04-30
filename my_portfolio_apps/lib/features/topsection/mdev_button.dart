@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mda/src/asset_constants.dart';
+import 'package:my_portfolio_apps/src/asset_constants.dart';
 
 class MDEV2Button extends StatelessWidget {
   const MDEV2Button({super.key});
@@ -15,9 +15,7 @@ class MDEV2Button extends StatelessWidget {
           fit: BoxFit.fitHeight,
         ),
       ),
-      child: InkWell(
-        onTap: () {},
-      ),
+      child: InkWell(onTap: () {}),
     );
   }
 }

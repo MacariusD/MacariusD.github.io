@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mda/src/material_theme_gen.dart';
+import 'package:my_portfolio_apps/src/material_theme_gen.dart';
 
 final lightTextTheme = TextTheme(
   headlineLarge: TextStyle(

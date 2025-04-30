@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:mda/features/topsection/currentjob_button.dart';
+import 'package:my_portfolio_apps/features/topsection/currentjob_button.dart';
 
 import 'mdev_button.dart';
 import 'name_button.dart';
