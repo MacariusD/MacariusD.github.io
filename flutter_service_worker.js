@@ -44,7 +44,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "deea0f5dba93813bade5621aec9b6b13",
 "assets/NOTICES": "801b9071543607c1d4f3cca9116d1cee",
-const RESOURCES = {"assets/AssetManifest.bin": "aaeabd5a314dd9d8336468c617dcf848",
+// Removed duplicate declaration of RESOURCES
 "assets/AssetManifest.bin.json": "684f5adb2994f455bd379d419ef2672f",
 "assets/AssetManifest.json": "2cfda6e7573779a5c3af4e6723954577",
 "assets/assets/data/carousel_content.json": "426ddc06d2ec561f8fa0c89424e92235",
