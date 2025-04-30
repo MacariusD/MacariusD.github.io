@@ -1,0 +1,79 @@
+{ 
+    "carousel_items":[
+        {
+            "title":"Sports",
+            "photo_name":"/Football.jpg",
+            "description":"My favorite physical passtimes were Cricket and Football. Cricket dominated my early life where I even played for my secondary school in national competitions. Football however tookover from university onwards where I played for my university in collegiate and national competitions and for my faculty. I also enjoyed table tennis and badminton."
+        },
+        {
+            "title":"ASI Mission & Pathfinder Club",
+            "photo_name":"/asi.jpg",
+            "description":"Before and during my university life I was also part of various faith based youth community service programs. In those programs I did public speaking and was responsible for groups among many activities and responsibilities. It was a combination of scouts and mission trips within my home country and various countries."
+        },
+        {
+            "title":"Drama Club",
+            "photo_name":"/dclub.jpg",
+            "description":"Drama Club at U.S.C. was a great way to unwind and also expand on my stage skills. I participated and organised countless productions for the drama club and also for my country club. Held various positions from lead acting roles to member of the exec., and various events to add to student social life. In 2015 I won the best Improv Actor at the National Drama Festival."
+        },
+        {
+            "title":"Media Department",
+            "photo_name":"/media2.jpg",
+            "description":"At U.S.C., I spent 2 years working in the media department. Responsibilities included university video streams of all programs, recordings of faculty and staff members, and managing media team members from rosters to payments. During this capaciaty I also got to work with international personalities like Gospel Singer Larnelle Harris and US Senate Chaplain Barry Black to name a few."
+        },
+        {
+            "title":"Science Week",
+            "photo_name":"/science.jpg",
+            "description":"Science week at the University of the Southern Caribbean was always something I looked forward to where University, primary and secondary students and members of the general public would visit the school to see the different showcases from all faculties. I eagerly participated in both Computer Science and Biology Booths. I even became responsible for the full Computer Science display."
+        },
+        {
+            "title":"R.O.A.R.",
+            "photo_name":"/roar.jpg",
+            "description":"Rennie's Orphanage and Animal Rescue is a Non-Governmental and Non-Profit Organisation that focuses on Public Education about the environment and also medical treatment of wild animals. I have been with them from 2014 and currently serve as Director of Information Communication Technology."
+        },
+        {
+            "title":"Married & K.H.C.",
+            "photo_name":"/married.jpg",
+            "description":"Being married to Dr. Crystal Kirk-Auguste compliments my skillset and ambitions. She is the founder of Kids Health Creative which was born out of her realization that educating today's kids on health will lead to better health awareness tomorrow."
+        },
+        {
+            "title":"Introduction",
+            "photo_name":"/introtemp.jpg",
+            "description":"Welcome to My app. This is a brief glimpse into who I am. This app mainly focuses on a few personal and professional aspects. \nFor the full experience contact me on any or all of my social accounts linked below.\nLet's get connected."
+        },
+        {
+            "title":"Skillset Summary",
+            "photo_name":"/skillset.jpg",
+            "description":"- U.S.C. Computing - Software Systems Degree, Minor in Biology\n- Python, Flutter, Postgresql, Git \n- Comptia A+ (2016-2019) \n- Soft Skills, UX focused, PR Oriented, Media Production, Photography, Animal and Natural Environment Lover, Flight Simulation."
+        },
+        {
+            "title":"Ministry of Physical Planning",
+            "photo_name":"/planning.jpeg",
+            "description":"In 2018 I was hired by this department to help with the National Land Registry's Digitization Project. Tasked primarily with managing data entry clerks and the software and hardware they used. Postgresql, Visual Basic, Python, Git, Soft Skills training, IT Expos and contributing to the International Land Bank initiative were highlights."
+        },
+        {
+            "title":"Hackathon",
+            "photo_name":"/Devca.jpg",
+            "description":"While working for Ministry of physical planning we were allowed to participate in the National Hackathon. The group I was in, 'Team 0101' placed first with our solution 'Openshores'. This solution was a modern and complete approach to how a tourist would navigate and interact with our island along with the capability to scale to other islands."
+        },
+        {
+            "title":"MDEV2",
+            "photo_name":"/mdev2.png",
+            "description":"This is the brain child of my brother and I, where we want to be able to impact our local community and elevate the level of tech on our island. Stay Tuned for more on this development."
+        },
+        {
+            "title":"University of Montemorelos",
+            "photo_name":"/Idiomas.jpg",
+            "description":"Upon getting married I moved to Mexico. There at the University of Montemorelos, I taught english as a Professor at the Faculty of Education and as a Tutor at the Language Institute to ages ranging from 8 to 50. Due to covid measures, I managed, produced and edited their annual christmas performace which was done as a 45min video."
+        },
+        {
+            "title":"Credit Union",
+            "photo_name":"/credit.jpg",
+            "description":"Directly after graduating I was fortunate to get a job here. While here I wore many hats as Teller, Assistant IT Tech, A.M.L. officer, Loans and Collections Officer. I helped install smart security systems, designed and implimented their digital signage for enhanced customer service, even cleaned up their logo."
+        },
+        {
+            "title":"Much Much More...",
+            "photo_name":"/more.jpg",
+            "description":"After leaving teaching in mexico, I did research into what I wanted to do next long term while teaching senior programmers english on Preply. This has just been a snipet. There is much more to come from my storyline..."
+        }
+    ]
+}
